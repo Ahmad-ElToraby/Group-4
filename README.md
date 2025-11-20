@@ -1,4 +1,4 @@
-# Emotion-Recognition
+# Group 4
 
 Team Members:
 1. Ahmad Ibrahim
